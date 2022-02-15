@@ -9,6 +9,7 @@
     <RepositoryUrl>https://github.com/emre-gon/Sl.StringExtensions</RepositoryUrl>
     <PackageTags>string extension</PackageTags>
     <PackageLicenseFile>..\LICENSE</PackageLicenseFile>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
